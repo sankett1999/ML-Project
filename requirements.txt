@@ -1,13 +1,10 @@
-numpy
 pandas
-matplotlib
+numpy
 seaborn
+matplotlib
 scikit-learn
-ipykernel
 catboost
 xgboost
-dill
-flask
-flask_cors
-lime
+Flask
+
 #-e .
